@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @otienosteve, a Technical Mentor at Moringa School
-- 👀 I’m interested in Technology that has a positive impact on peoples lives
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any open source project when called upon
+- 👋 Hi, I’m @otienosteve
+- 👨‍🏫 Technical Mentor at Moringa School. 
+- 🤖 Competitive Programmer -CodinGame. 
+- 👨‍💻 Full-stack Web Dev: JavaScript, React, Angular, Ruby, Rails, Python, Django. Flask
+-
+-
+- 
 - 📫 How to reach me steveotieno701@gmail.com
+- 🔗 https://www.linkedin.com/in/steve-otieno-5a6b4a155/
 
 <!---
 otienosteve/otienosteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
