@@ -9,13 +9,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![LangChain](https://img.shields.io/badge/LangChain-343541?style=flat&logoColor=white)
-![open AI Agents SDK](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![MCP](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![open AI Agents SDK](https://img.shields.io/badge/-Open-AIAgents-SDK-F26512?style=flat&logo=javascript)
+![MCP](https://img.shields.io/badge/-MCP-F0F0F0?style=flat&logo=javascript)
 
 ---
 
