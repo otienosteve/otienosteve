@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Otieno Steve</h1>
 <p align="center">
-  👨‍💻 Full-stack Developer | 🧠 Automation Expert | 🧠 Mentor | 🌍 Based in Kenya
+  👨‍💻 Full-stack Developer | 🧠 Automation Expert | 👨‍🏫 Mentor | 🌍 Based in Kenya
 </p>
 
 ---
@@ -32,10 +32,12 @@
 
 
 - 👋 Hi, I’m @otienosteve
-- 👨‍🏫 Senior Developer at Barcelona Technologies Ltd 
-- 👨‍🏫 Technical Mentor at Moringa School. 
+- 👨‍💻 Full-stack Web Dev: JavaScript, React, Python, Flask
+- 👨🏾‍💻 Senior Developer at Barcelona Technologies Ltd 
+- 👨‍🏫 Technical Mentor at Moringa School.
+- 🧠 Freelance AI Engineer 
 - 🤖 Competitive Programmer -CodinGame. 
-- 👨‍💻 Full-stack Web Dev: JavaScript, React, Angular, Ruby, Rails, Python, Django. Flask
+
 <!---
 otienosteve/otienosteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
