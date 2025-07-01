@@ -33,7 +33,7 @@
 
 - 👋 Hi, I’m @otienosteve
 - 👨‍💻 Full-stack Web Dev: JavaScript, React, Python, Flask
-- 👨🏾‍💻 Senior Developer at Barcelona Technologies Ltd 
+- 👨🏾‍💻 Senior Developer at [![Barcelona Technologies Ltd](https://img.shields.io/badge/-Web-333?logo=web&style=flat) 
 - 👨‍🏫 Technical Mentor at Moringa School.
 - 🧠 Freelance AI Engineer 
 - 🤖 Competitive Programmer -CodinGame. 
