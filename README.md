@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![LangChain](https://img.shields.io/badge/LangChain-343541?style=flat&logoColor=white)
-![open AI Agents SDK](https://img.shields.io/badge/-Open-AIAgents-SDK-F26512?style=flat&logo=javascript)
+![open-AI-Agents-SDK](https://img.shields.io/badge/Open-AI-Agents-SDK-F26512?style=flat&logo=javascript)
 ![MCP](https://img.shields.io/badge/-MCP-F0F0F0?style=flat&logo=javascript)
 
 ---
@@ -32,7 +32,6 @@
 
 
 - 👋 Hi, I’m @otienosteve
-- 👨‍💻 Full-stack Web Dev: JavaScript, React, Python, Flask
 - 👨🏾‍💻 Senior Developer at [**Barcelona Technologies Ltd**](https://www.barcelonatech.co.ke/) 
 - 👨‍🏫 Technical Mentor at Moringa School.
 - 🧠 Freelance AI Engineer 
