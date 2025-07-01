@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Otieno Steve</h1>
 <p align="center">
-  👨‍💻 Full-stack Developer | 🧠 AI Enthusiast | 🌍 Based in Kenya
+  👨‍💻 Full-stack Developer | 🧠 Automation Expert | 🧠 Mentor | 🌍 Based in Kenya
 </p>
 
 ---
@@ -13,17 +13,12 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![LangChain](https://img.shields.io/badge/LangChain-343541?style=flat&logoColor=white)
+![open AI Agents SDK](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![MCP](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otienosteve&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienosteve&layout=compact&theme=default" height="150"/>
-</p>
-
----
 
 ### ✨ Featured Projects
 
