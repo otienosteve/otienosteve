@@ -19,9 +19,6 @@
 ---
 
 
-### ✨ Featured Projects
-
-- 🔗 [**Quest ApplyBoard**](https://www.questapplyboard.com/) – Streamlined student application processing platform
 
 ---
 
@@ -32,10 +29,11 @@
 
 
 - 👋 Hi, I’m @otienosteve
-- 👨🏾‍💻 Senior Developer at [**Barcelona Technologies Ltd**](https://www.barcelonatech.co.ke/) 
-- 👨‍🏫 Technical Mentor at Moringa School.
-- 🧠 Freelance AI Engineer 
-- 🤖 Competitive Programmer -CodinGame. 
+- 👨🏾‍💻 Tech Stratergist
+- 👨‍🏫 Curriculum Developer.
+- 🧠 AI Evangelist
+- [**Otienosteve.com**](https://www.otienosteve.com/)
+- hello@otienosteve.com
 
 <!---
 otienosteve/otienosteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
