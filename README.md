@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Otieno Steve</h1>
 <p align="center">
-  👨‍💻 Full-stack Developer | 🧠 Automation Expert | 👨‍🏫 Mentor | 🌍 Based in Kenya
+  👨‍💻 Tech Stratergist | 🧠 AI EVangelist | 👨‍🏫 Curriculum Developer | 🌍 Based in Kenya
 </p>
 
 ---
